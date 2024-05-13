@@ -1,6 +1,6 @@
 # Instacart Market Basket Analysis
 
-# Project Overview
+## Project Overview
 This repository contains the analysis of the Instacart Market Basket dataset from Kaggle. The objective of this project is to apply association rule mining to discover patterns in customer purchases and recommend products that are frequently bought together.
 
 ## Motivation
